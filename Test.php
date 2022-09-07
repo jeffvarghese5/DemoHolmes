@@ -18,7 +18,7 @@
 
   }
   
-  $message = "The result from the function is ".test();
+  $message = " hcghggdghdghghdghgh The result from the function is ".test();
 
   echo $message;
 
